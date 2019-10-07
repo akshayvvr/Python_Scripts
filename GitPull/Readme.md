@@ -7,5 +7,6 @@ When you execute this file, it will navigate into all the repo folders and do a 
 
 ``` 
 Note: 
-If you do not want sequential execution of git pulls in the folder, remove the wait() function in the code
+If you do not want sequential execution of git pulls in the folder, 
+remove the wait() function in the code
 ```
